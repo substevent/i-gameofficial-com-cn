@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://substevent.github.io/i-gameofficial-com-cn/sitemap.xml
